@@ -10,12 +10,12 @@ The Clicky Game is a modern twist of a classic memory game that challenges your 
 - In order to achieve the highest possible score, you must click each image only once. 
 - If a single image is clicked more than once, the user loses, and the game resets.
 
-[Play Game](https://theclickygame2019.herokuapp.com)
+[Play Game](https://warm-gorge-28246.herokuapp.com/)
 
 
 ## Demonstration
 
-![Alt Text](Screenshots/ClickyGame.gif)
+![Alt Text](Screenshots/ClickyGame2.gif)
 
 
 
